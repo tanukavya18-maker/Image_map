@@ -35,8 +35,8 @@ new.html
     <body>
         <h1 align="center">CHENNAI</h1>
         <br>
-        <h2 align="center">NAME:Divesh A</h2>
-        <h2 align="center">reg No:25018935</h2>
+        <h2 align="center">NAME:KAVYA G</h2>
+        <h2 align="center">reg No:25018973</h2>
         <img src="Screenshot 2025-11-28 112615.png" usemap="#image-map">
 
 <map name="image-map">
